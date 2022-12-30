@@ -77,6 +77,7 @@ Provide shortlist of LawNet content for display on external systems, such as
                                 "News Summaries"
                             ]
                         }
+                    ]
                 }
             }
         ]
